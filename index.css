@@ -1,0 +1,117 @@
+* {
+    padding: 0%;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container-in {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.home-one img {
+    height: 7vh;
+    margin: 10px;
+}
+.logo {
+    width: 50%;
+}
+.logo img {
+    height: 80%;
+    width: 80%;
+    padding-left: 70px;
+}
+.home {
+    width: 50%;
+    background-color: white;
+    height: 90vh;
+    margin: 50px;
+}
+.home-one {
+    margin-left: 40px;
+}
+.name input {
+    margin-left: 40px;
+    height: 5vh;
+    border-radius: 5px;
+    width: 30vh;
+    padding-left: 8px;
+
+}
+.name p {
+    margin-left: 40px;
+}
+.user input {
+    margin-left: 40px;
+    height: 5vh;
+    border-radius: 5px;
+    width: 66vh;
+    padding-left: 8px;
+    
+}
+.user p {
+    margin-left: 40px;
+    padding-top: 4px;
+}
+.pass p {
+    margin-left: 40px;
+
+}
+.pass input {
+    margin-left: 40px;
+    height: 5vh;
+    border-radius: 5px;
+    width: 30vh;
+    padding-left: 8px;
+}
+.home-one h2 {
+    padding-bottom: 9px;
+}
+.name {
+    padding-top: 30px;
+}
+.user {
+    padding-top: 30px;
+}
+.pass {
+    padding-top: 30px;
+}
+.pass p {
+    margin-left: 40px;
+    padding-top: 4px;
+}
+.home-three {
+    padding-top: 30px;
+    margin-left: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.home-three a {
+    text-decoration: none;
+    color: rgb(58, 77, 216);
+}
+button {
+    width:8vh;
+    height: 5vh;
+    border-radius: 5px;
+    background-color: rgb(58, 77, 216);
+    color: white;
+}
+.footer {
+    padding-top: 40px;
+    display: flex;
+    align-items: center;
+}
+.footer p {
+    margin-left: 40px;
+    padding-right: 40px;
+}
+.footer a {
+    padding: 10px;
+    text-decoration: none;
+    padding-left: 2vh;
+    color: rgb(58, 77, 216);
+}
+
